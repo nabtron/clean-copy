@@ -1,11 +1,11 @@
 <?php
 /**
- * @package clean-copy
+ * @package clean-copy-paste-tinymce
  * @version 0.1
  */
 /*
-Plugin Name: clean copy
-Plugin URI: http://wordpress.org/plugins/clean-copy/
+Plugin Name: clean copy paste tinymce
+Plugin URI: http://wordpress.org/plugins/clean-copy-paste-tinymce/
 Description: cleans the copied content tags.
 Author: nabtron
 Version: 0.1
